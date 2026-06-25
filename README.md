@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Aniket Vishnoi
+# Hey there! 👋 I'm Aniket Kumar
 
 ### 📊 Data Analyst · Power BI Expert · Telecom Domain Specialist
 
@@ -22,19 +22,19 @@
 ## 🧰 Tech Stack
 
 **Analytics & BI**  
-Power BI
-Tableau
-Excel
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 **Languages**  
-SQL
-Python
-DAX
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Tools & Platforms**  
-GitHub
-VS Code
-Jupyter
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -67,8 +67,19 @@ Jupyter
 Analyst by profession    📊  SQL → Python → Power BI, I own the full pipeline
 Domain specialist        📡  2.5 years deep in telecom & GCC environments
 Lifelong learner         📚  Currently adding PySpark to the stack
+Side interests           🎥  Building a true crime YouTube channel (Case Filed India)
+                         📈  Retail investor — Indian & US equity markets
 Location                 📍  Gurugram, India
 ```
-*"Data is just stories waiting to be told clearly."* 📖
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-vishnoi-823048122/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aniket2302)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aniket.vishnoi2000@gmail.com)
+
+---
+
+*"Data is just stories waiting to be told clearly."* 📖
