@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Aniket Kumar
+# Hey there! 👋 I'm Aniket Vishnoi
 
 ### 📊 Data Analyst · Power BI Expert · Telecom Domain Specialist
 
@@ -22,19 +22,19 @@
 ## 🧰 Tech Stack
 
 **Analytics & BI**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+Power BI
+Tableau
+Excel
 
 **Languages**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+SQL
+Python
+DAX
 
 **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+GitHub
+VS Code
+Jupyter
 
 ---
 
